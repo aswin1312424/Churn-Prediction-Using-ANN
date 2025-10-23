@@ -8,7 +8,7 @@ def save_object(file_path,obj):
     with open(file_path,"wb") as f:
         pickle.dump(obj,f)
 
-def load_obj(file_path):
+def load_object(file_path):
     #This function is to load the object
 
     with open(file_path,"rb") as f:
