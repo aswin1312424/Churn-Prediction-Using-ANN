@@ -1,1 +1,1 @@
-A Churn Prediction Web Application Trained Using ANN
+An End to End Churn Prediction Web Application Trained Using ANN
